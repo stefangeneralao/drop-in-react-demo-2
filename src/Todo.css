@@ -1,5 +1,6 @@
 .todo {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: red;
   width: 100px;
   padding: 10px;
   margin: 15px;
